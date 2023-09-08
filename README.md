@@ -1,16 +1,20 @@
-### Hi there 👋
-
-<!--
-**Faris-1710/Faris-1710** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Introduction.js 
+ ```js 
+ const my_discord = 'faris.js'; 
+  
+ const languages = ['Python', 'JavaScript', 'Java']; 
+ const main_lang = languages[1]; 
+  
+ const public_projects = { 
+     discord_bot: { 
+         language: 'JavaScript', 
+         description: 'An all in one discord bot', 
+         url: 'https://github.com/Faris-1710/QuillJS' 
+     }, 
+     file_explorer: { 
+         language: 'JavaScript', 
+         description: 'A file explorer made using electron', 
+         url: 'https://github.com/Faris-1710/JS-File-explorer' 
+     } 
+ };
+ ```
